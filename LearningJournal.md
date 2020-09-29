@@ -1,2 +1,3 @@
 # LearningJournal
-:3 
+
+:з
