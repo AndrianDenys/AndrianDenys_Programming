@@ -6,7 +6,10 @@ This is part one of the tutorial series, dedicated to creating a dice-throwing m
 
 
 ### Blocking out the board
-You may skip this, if you are here for camera controls. 
+
+*You may skip this, if you are here for camera controls. *
+
+To do this, go to GameObject -> 3D Object -> Cube/Plane. Build of this blocks box-shaped board, so that our dice dont fall out. After all of them are set up, click on each one and click **Add Component** button, then serach for Box Collider and add it. Make sure, that **Is Trigger** is turned off. 
 
 
 ### Setting up camera
