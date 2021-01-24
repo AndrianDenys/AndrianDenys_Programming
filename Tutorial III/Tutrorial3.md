@@ -14,6 +14,7 @@ Since we don't want our cube to be covered by additional meshes, turn off **Mesh
 Lastly, you can dublicate those and set
 on each side. This should look something like example:
 
+![Dice](/Tutorial%20III/Assets/Images/Image1.png)
 
 ### Code for Triggers
 
