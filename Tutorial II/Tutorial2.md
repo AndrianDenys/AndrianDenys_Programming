@@ -9,7 +9,11 @@ In this tutorial, we are going to touch on throwing game objects across the scen
 In our example, we are going yo use dice model. You can model it by yourself, browse Asset Store for free models (there are plenty of those) or just add a cube for now (Game Object -> 3D Object -> Cube). 
 Now, when we have the model or cube, we need to add few components to it. Lets start with **Mesh Collider** or **Box Collider** (make sure its not checked as trigger) and **Rigidbody**. 
 
+![Components](/Tutorial%20II/Assets/Images/picture2.png)
+
 Up next, we are going to need **Physic Material**. Its not a component, so create a new one in your assets folder. We are interested in **Friction** and **Bounciness** parameters. You can play with those later, for now set both frictions to around 0.1 and bounciness to 1. They affect how well your dice slides on board and how it bounces from surface. You will need to drag this material into Collider component on your game object, into Material slot.  
+
+![Material](/Tutorial%20II/Assets/Images/picture1.png)
 
 
 ### Code
