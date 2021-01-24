@@ -13,7 +13,7 @@ To do this, go to GameObject -> 3D Object -> Cube/Plane. Build of this blocks bo
 
 Or you may just create big enough plain. 
 
-![Collider](/Assets/Images/Image2.png)
+![Collider](/Tutorial%20I/Assets/Images/Image2.png)
 
 
 ### Setting up camera
