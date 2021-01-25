@@ -32,7 +32,7 @@ Now, lets add 3 **Buttons** (UI -> Button). You shall rename them as Resume, Res
 Just as with panel, colour and oppacity may be changed in the inspector. Also you may change this for each state of the button, to make UI more responsive. 
 Now, your hierarchy should look like this:
 
-
+![Canvas](/Tutorial%20IV/Assets/Images/image3.png)
 
 Now, lets get to code. We can do it in the same script with throw result. First of all, we are going to need one more module to reset scene:
 
@@ -85,6 +85,6 @@ Now we need to add methods for buttons. Resume is literally same as closing paus
 Now we can attach those methods to buttons. Save the script and return to menu. Look for the ivent table in the inspector menu for button. There you can add one with a "+". 
 Then, drag canvas to empty slot and select your sript, then select corresponding method:
 
-
+![Canvas](/Tutorial%20IV/Assets/Images/Image4.png)
 
 Do it for every button. Now you have working menu for your dice-throwing game :3
